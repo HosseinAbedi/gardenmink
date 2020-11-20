@@ -1,7 +1,7 @@
 baseURL = "https://hosseinabedi.github.io/gardenmink"
 publishDir = "docs"
 languageCode = "en-us"
-title = "ElJacinto"
+title = "Garden Mink"
 theme = "Blogpaper"
 ignoreErrors = ["error-remote-getjson"]
 #author = "Kain"
